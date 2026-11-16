@@ -69,11 +69,11 @@ The following SaaS and commercially licensed developer tools provide turnkey pro
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the most popular open-source repositories for self-hosted traffic modification, mock servers, and debugging proxies. Sorted strictly by **GitHub Star Count (Descending)**:
+Explore the most popular open-source repositories for self-hosted traffic modification, mock servers, and debugging proxies. Sorted strictly by **GitHub Stars_Count (Descending)**:
 
 ### 🏆 Top Tier Open-Source Powerhouses
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |:---|:---:|:---|
 | **[JSON Server](https://github.com/typicode/json-server)** | [![Stars](https://img.shields.io/github/stars/typicode/json-server?style=social&color=white)](https://github.com/typicode/json-server/stargazers) | **Get a full fake REST API with zero coding in less than 30 seconds.** Created by Typicode. Generates full CRUD routes, relationships, pagination, sorting, and full-text search directly from a plain JSON file. Perfect for quick front-end prototyping, automated UI tests, and offline development mock APIs. |
 | **[mitmproxy](https://github.com/mitmproxy/mitmproxy)** | [![Stars](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=social&color=white)](https://github.com/mitmproxy/mitmproxy/stargazers) | **The industry standard open-source scriptable MITM proxy for automated rule modification and mocking.** **MIT licensed**, Python. Features three interfaces: `mitmproxy` (interactive console for HTTP/1, HTTP/2, WebSockets), `mitmweb` (browser UI), and `mitmdump` (headless for CI pipelines). Python addons receive every network flow as a mutable object—rewrite responses, mock endpoints, or log traffic programmatically. Ideal for automated testing and CI/CD security workflows. |
@@ -95,7 +95,7 @@ Explore the most popular open-source repositories for self-hosted traffic modifi
 
 ### 🧩 Specialized Mocking & Client Testing Libraries
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |:---|:---:|:---|
 | **[ModHeader](https://addons.mozilla.org/en-GB/android/addon/modheader-by-modheader-app/)** | — | **Browser extension for rapid HTTP header modification.** Modify, add, edit, remove, and override request and response headers (User-Agent, Authorization, CORS headers, CSP policies) without changing application source code or installing system proxies. |
 
@@ -130,7 +130,7 @@ Choosing the right tool depends on your team's architecture, security constraint
 We welcome additions, corrections, and updates from the developer community!
 
 1. 🍴 Fork the repository.
-2. 📝 Add or update entries in `README.md` (ensure SaaS entries include specific starting pricing and free tier limits; ensure open-source entries include valid GitHub star badges).
+2. 📝 Add or update entries in `README.md` (ensure SaaS entries include specific starting pricing and free tier limits; ensure open-source entries include valid GitHub Stars_Badges).
 3. 🔗 Keep descriptions objective, accurate, and link directly to official project repositories or homepages.
 4. 🚀 Submit a Pull Request with a clear explanation of your changes.
 
